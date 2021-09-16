@@ -1,0 +1,32 @@
+* {
+  margin: 5px;
+  padding: 5px;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(106, 112, 112);
+}
+
+
+  
+h1 {
+  font-size: 40px;
+  color: rgba(24, 5, 29, 0.822);
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  background-color: rgb(116, 216, 211)
+}
+
+.container {
+  margin-top: 10px;
+  margin: 10px;
+}
+
+.link {
+  font-size: 20px;
+  background-color: chartreuse;
+}
+
+
